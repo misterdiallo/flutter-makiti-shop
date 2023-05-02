@@ -4,9 +4,8 @@ Makiti Shop is a Flutter-based application for shopping that helps customers buy
 
 ## App Screenshot
 
-<img src="https://github.com/mrezkys/makiti/blob/main/demo/banner.jpg" width="auto" height="auto" >
-<img src="https://github.com/mrezkys/makiti/blob/main/demo/shot.jpg" width="auto" height="auto" >
-<img src="https://github.com/mrezkys/makiti/blob/main/demo/details.jpg" width="auto" height="auto" >
+<img src="https://github.com/misterdiallo/flutter-makiti-shop/blob/main/demo/pub2.jpg" width="auto" height="auto" >
+<img src="https://github.com/misterdiallo/flutter-makiti-shop/blob/main/demo/pub1.jpg" width="auto" height="auto" >
 
 ## Whats inside
 
